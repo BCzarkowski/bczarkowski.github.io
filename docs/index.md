@@ -4,4 +4,6 @@
 
 layout: home
 ---
-https://github.com/BCzarkowski/bczarkowski.github.io/deployments
+[first](/first/)
+[second](/subdir/second/)
+[about](/about/)
