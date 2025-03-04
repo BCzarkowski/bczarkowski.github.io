@@ -4,6 +4,4 @@
 
 layout: home
 ---
-[first](/first)
-[second](/subdir/second)
-[about](/about)
+[zadanie1](/zadanie1)
