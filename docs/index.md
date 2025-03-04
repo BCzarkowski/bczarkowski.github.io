@@ -5,3 +5,4 @@
 layout: home
 ---
 [zadanie1](/zadanie1)
+[test](/test)
