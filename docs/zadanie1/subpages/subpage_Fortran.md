@@ -3,13 +3,11 @@ title: Fortran
 ---
 
 # Introduction
-Fortran, short for "Formula Translation," is a high-level programming language that was developed in the 1950s, specifically designed for scientific and engineering applications. The first version, Fortran I, was released by IBM in 1957, making it one of the oldest programming languages still in use today. It was created to simplify the process of programming for numerical computation and to allow scientists and engineers to express their mathematical formulas in a more understandable way.
+Fortran, short for "Formula Translation," is a high-level programming language that was developed in the 1950s, specifically designed for scientific and engineering calculations. The first version, Fortran I, was released by IBM in 1957. It was one of the earliest programming languages to provide a way to express mathematical formulas in a format that was more understandable than assembly language, making it easier for scientists and engineers to write programs.
 
-Fortran introduced several key programming concepts, including the use of variables, loops, and conditionals, which have influenced many subsequent programming languages. Over the years, Fortran has undergone several revisions, leading to the development of various standards, including Fortran 77, Fortran 90, Fortran 95, and the more recent Fortran 2003 and Fortran 2008, each adding new features and capabilities.
+Fortran introduced several key programming concepts, including the use of variables, loops, and conditionals, which have influenced many subsequent programming languages. Over the years, Fortran has undergone several revisions, leading to the development of Fortran II, III, IV, 77, 90, 95, 2003, and the most recent standard, Fortran 2018. Each version has added new features, such as support for modular programming, object-oriented programming, and parallel computing.
 
-One of the notable aspects of Fortran is its efficiency in handling array operations and numerical computations, making it particularly popular in fields such as computational physics, climate modeling, and engineering simulations. A fun fact about Fortran is that it has been used in some of the most significant scientific projects, including the Apollo space program and weather forecasting models.
-
-Despite the emergence of many modern programming languages, Fortran remains widely used in legacy systems and high-performance computing environments due to its performance and the vast amount of existing code written in it.
+A fun fact about Fortran is that it is still widely used today, particularly in high-performance computing and scientific applications, due to its efficiency in numerical computation and its ability to handle large datasets. Many legacy systems and scientific libraries are written in Fortran, and it remains a popular choice in fields such as climate modeling, computational fluid dynamics, and structural engineering.
 
 # Search results
 
@@ -32,15 +30,15 @@ This tutorial covers the history, features and syntax of Fortran, a high level p
 
 ---
 
-## [FORTRAN | Definition, Meaning, & Facts | Britannica](https://www.britannica.com/technology/FORTRAN)
-
-FORTRAN, computer programming language created in 1957 by John Backus that shortened the process of programming and made computer programming more accessible.. The creation of FORTRAN, which debuted in 1957, marked a significant stage in the development of computer programming languages. Previous programming was written in machine (first-generation) language or assembly (second-generation ...
-
----
-
 ## [Fortran - IBM](https://www.ibm.com/history/fortran)
 
 Fortran was born of necessity in the early 1950s, when computer programs were hand-coded. Programmers would laboriously write out rows of zeros and ones in precise order. John Backus, Fortran's primary author, described the process as "hand-to-hand combat with the machine," with the machine often winning. The cost of programmers was ...
+
+---
+
+## [FORTRAN | Definition, Meaning, & Facts | Britannica](https://www.britannica.com/technology/FORTRAN)
+
+FORTRAN, computer programming language created in 1957 by John Backus that shortened the process of programming and made computer programming more accessible.. The creation of FORTRAN, which debuted in 1957, marked a significant stage in the development of computer programming languages. Previous programming was written in machine (first-generation) language or assembly (second-generation ...
 
 ---
 

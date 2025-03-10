@@ -9,9 +9,7 @@ R is widely used among statisticians, data scientists, and researchers for its p
 
 One of the key features of R is its extensive package ecosystem, which allows users to extend its functionality. The Comprehensive R Archive Network (CRAN) hosts thousands of packages contributed by users, covering a vast array of statistical methods and applications.
 
-A fun fact about R is that it has a strong community and is often used in academic research, leading to the development of numerous packages for specialized statistical techniques. Additionally, R has become a popular choice for data visualization, with packages like ggplot2 enabling users to create complex and aesthetically pleasing graphics with relatively simple code.
-
-R is open-source, which means it is freely available for anyone to use, modify, and distribute. Its popularity continues to grow, particularly in fields such as data science, bioinformatics, and social sciences, making it a vital tool for data analysis and statistical computing.
+A fun fact about R is that it has a strong community and is often used in academic research, leading to a wealth of resources, tutorials, and forums for users. Additionally, R has become a popular choice for data visualization, with packages like ggplot2 enabling users to create complex and aesthetically pleasing graphics with relatively simple code. R is also known for its ability to integrate with other programming languages, such as C++, Python, and SQL, making it a versatile tool in the data analysis toolkit.
 
 # Search results
 
@@ -28,15 +26,15 @@ R is a free software environment for statistical computing and graphics. It comp
 
 ---
 
-## [R-4.4.3 for Windows - The Comprehensive R Archive Network](https://cran.r-project.org/bin/windows/base/)
-
-Does R run under my version of Windows? How do I update packages in my previous version of R? Please see the R FAQ for general information about R and the R Windows FAQ for Windows-specific information. Other builds. Patches to this release are incorporated in the r-patched snapshot build.
-
----
-
 ## [R (programming language) - Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
 
 R is a programming language for statistical computing and data visualization.It has been adopted in the fields of data mining, bioinformatics and data analysis. [9]The core R language is augmented by a large number of extension packages, containing reusable code, documentation, and sample data.. R software is open-source and free software.It is licensed by the GNU Project and available under ...
+
+---
+
+## [The Comprehensive R Archive Network](https://cran.r-project.org/)
+
+R is part of many Linux distributions, you should check with your Linux package management system in addition to the link above. Source Code for all Platforms Windows and Mac users most likely want to download the precompiled binaries listed in the upper box, not the source code. The sources have to be compiled before you can use them.
 
 ---
 

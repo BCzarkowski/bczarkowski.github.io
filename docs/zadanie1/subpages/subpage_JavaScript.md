@@ -7,9 +7,9 @@ JavaScript is a high-level, dynamic, and interpreted programming language that w
 
 JavaScript is primarily known for its role in client-side web development, allowing developers to create dynamic and interactive user interfaces. It is an event-driven, functional, and imperative language, supporting object-oriented programming through prototypes. Over the years, JavaScript has evolved significantly, with the introduction of ECMAScript standards, the most notable being ECMAScript 6 (ES6) in 2015, which brought many modern features such as arrow functions, classes, and modules.
 
-One of the key features of JavaScript is its ability to run in various environments, including web browsers, servers (via Node.js), and even mobile applications. This versatility has contributed to its widespread adoption and the growth of a rich ecosystem of libraries and frameworks, such as React, Angular, and Vue.js.
+One of the key features of JavaScript is its ability to run in various environments, including web browsers, servers (via Node.js), and mobile applications. This versatility has contributed to its widespread adoption and the growth of a rich ecosystem of libraries and frameworks, such as React, Angular, and Vue.js.
 
-A fun fact about JavaScript is that it was originally developed in just 10 days, and despite its name, it is not directly related to the Java programming language. The name was partly a marketing strategy to capitalize on the popularity of Java at the time. Today, JavaScript is one of the most popular programming languages in the world, powering a vast majority of websites and applications.
+A fun fact about JavaScript is that it was originally developed in just 10 days, and despite its name, it is not directly related to the Java programming language. The name was chosen for marketing reasons, capitalizing on the popularity of Java at the time. Today, JavaScript is one of the most popular programming languages in the world, powering a vast majority of websites and applications.
 
 # Search results
 

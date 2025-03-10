@@ -3,7 +3,7 @@ title: C++
 ---
 
 # Introduction
-C++ is a general-purpose programming language that was developed by Bjarne Stroustrup at Bell Labs in Murray Hill, New Jersey, starting in 1979. It was designed as an extension of the C programming language, incorporating object-oriented features to enhance its capabilities. The first commercial release of C++ occurred in 1985, and it has since evolved through various standards, with significant updates such as C++98, C++03, C++11, C++14, C++17, and C++20.
+C++ is a general-purpose programming language that was developed by Bjarne Stroustrup at Bell Labs in Murray Hill, New Jersey, starting in 1979. It was designed as an extension of the C programming language, incorporating object-oriented features to enhance its capabilities. The first commercial release of C++ was in 1985, and it has since evolved through various standards, with significant updates including C++98, C++03, C++11, C++14, C++17, and C++20.
 
 C++ supports multiple programming paradigms, including procedural, object-oriented, and generic programming, making it a versatile choice for a wide range of applications. It is widely used in system/software development, game development, real-time simulations, and performance-critical applications due to its efficiency and control over system resources.
 
@@ -32,15 +32,15 @@ This is a list of operators in the C and C++ programming languages.. All listed 
 
 ---
 
-## [C++ - Simple English Wikipedia, the free encyclopedia](https://simple.wikipedia.org/wiki/C++)
+## [C++ Standard Library - Wikipedia](https://en.wikipedia.org/wiki/C++_Standard_Library)
 
-C++ (pronounced "c plus plus") is a computer programming language based on C. It was created for writing programs for many different purposes. In the 1990s, C++ became one of the most used programming languages in the world. Like C, C++ uses manual memory management (unlike most mainstream languages, where memory management is automatic), while ...
+The C++ Standard Library provides several generic containers, functions to use and manipulate these containers, function objects, generic strings and streams (including interactive and file I/O), support for some language features, and functions for common tasks such as finding the square root of a number. The C++ Standard Library also incorporates most headers of the ISO C standard library ...
 
 ---
 
-## [GitHub - Rustam-Z/cpp-programming: C++ Programming & Introduction to ...](https://github.com/Rustam-Z/cpp-programming)
+## [practical-tutorials/project-based-learning - GitHub](https://github.com/practical-tutorials/project-based-learning)
 
-C++ Program to count the number of vowels, consonants, and so on. C++ Program to Remove all Characters in a String Except Alphabet. C++ Program to Find the Length of a String. C++ Program to Concatenate Two Strings. C++ Program to Copy String Without Using strcpy(). C++ Program to Sort Elements in Lexicographical Order (Dictionary Order).
+A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages ...
 
 ---
 

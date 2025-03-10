@@ -7,7 +7,7 @@ C# (pronounced "C-sharp") is a modern, object-oriented programming language deve
 
 C# is known for its simplicity, versatility, and strong type safety, making it suitable for a wide range of applications, from web development to game development and enterprise software. It runs on the Common Language Runtime (CLR), which allows for cross-language interoperability within the .NET ecosystem.
 
-One fun fact about C# is that it was influenced by several programming languages, including C, C++, and Java, which is evident in its syntax and structure. Additionally, C# has a strong community and extensive libraries, making it a popular choice for developers. The language continues to evolve, with regular updates that enhance its capabilities and performance, reflecting the changing needs of software development.
+One fun fact about C# is that it was influenced by several programming languages, including C++, Java, and Delphi, which contributed to its syntax and features. Additionally, C# has a strong community and extensive libraries, making it a popular choice for developers worldwide. The language continues to evolve, with regular updates that enhance its capabilities and performance, reflecting the changing needs of software development.
 
 # Search results
 
@@ -15,12 +15,6 @@ One fun fact about C# is that it was influenced by several programming languages
 ## [C Sharp (programming language) - Wikipedia](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 C# (/ ˌ s iː ˈ ʃ ɑːr p / see SHARP) [b] is a general-purpose high-level programming language supporting multiple paradigms.C# encompasses static typing, [16]: 4 strong typing, lexically scoped, imperative, declarative, functional, generic, [16]: 22 object-oriented (class-based), and component-oriented programming disciplines. [17]The principal inventors of the C# programming language ...
-
----
-
-## [Null coalescing operator - Wikipedia](https://en.wikipedia.org/wiki/Null_coalescing_operator)
-
-The null coalescing operator is a binary operator that is part of the syntax for a basic conditional expression in several programming languages, such as (in alphabetical order): C# [1] since version 2.0, [2] Dart [3] since version 1.12.0, [4] PHP since version 7.0.0, [5] Perl since version 5.10 as logical defined-or, [6] PowerShell since 7.0.0, [7] and Swift [8] as nil-coalescing operator.
 
 ---
 
@@ -39,6 +33,12 @@ This is a feature of C# 9.0. Similar to in scripting languages, top-level statem
 ## [GitHub - LabinatorSolutions/csharp-cheat-sheet: Complete C# cheat sheet ...](https://github.com/LabinatorSolutions/csharp-cheat-sheet)
 
 C# is pronounced "C-Sharp". It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close to other popular languages like C++ and Java. A contextual keyword is used to provide a specific meaning in the ...
+
+---
+
+## [C# - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/C♯)
+
+c#是微软推出的一种基于.net框架和后来的.net的、面向对象的高级编程语言。c#衍伸自c和c++，继承了c和c++的强大功能，同时去掉了一些复杂特性，使其成为c语言家族中高效强大的编程语言。
 
 ---
 

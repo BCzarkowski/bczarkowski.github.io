@@ -3,13 +3,9 @@ title: Kotlin
 ---
 
 # Introduction
-Kotlin is a statically typed programming language developed by JetBrains, officially released in 2011. It was designed to be fully interoperable with Java, making it an attractive option for Android development, as it allows developers to use existing Java libraries and frameworks while providing a more modern and expressive syntax. Kotlin's concise syntax reduces boilerplate code, enhancing productivity and readability.
+Kotlin is a statically typed programming language developed by JetBrains, officially released in 2011. It is designed to be fully interoperable with Java, making it an attractive option for Android app development, as well as for server-side, web, and desktop applications. Kotlin's concise syntax and modern features, such as null safety, extension functions, and coroutines for asynchronous programming, enhance developer productivity and reduce the likelihood of common programming errors.
 
-In 2017, Google announced official support for Kotlin on Android, which significantly boosted its popularity among developers. The language incorporates features from functional programming, such as higher-order functions and lambda expressions, while also supporting object-oriented programming principles.
-
-A notable feature of Kotlin is its null safety, which helps prevent null pointer exceptions, a common source of runtime errors in many programming languages. Additionally, Kotlin supports coroutines, enabling asynchronous programming and simplifying tasks like network calls and UI updates.
-
-Fun fact: The name "Kotlin" is derived from Kotlin Island, located near St. Petersburg, Russia, where JetBrains is headquartered. Kotlin has since evolved, with Kotlin 1.5 being released in May 2021, introducing features like sealed interfaces and improved type inference. The language continues to grow in popularity, with a vibrant community and extensive libraries, making it a strong choice for modern software development.
+Kotlin was created to address some of the shortcomings of Java, particularly in terms of verbosity and safety. In 2017, Google announced official support for Kotlin on Android, which significantly boosted its popularity among developers. A fun fact about Kotlin is that its name is derived from Kotlin Island, located near St. Petersburg, Russia, where JetBrains is headquartered. The language has since gained a strong community and ecosystem, with a growing number of libraries and frameworks supporting its use.
 
 # Search results
 
@@ -38,9 +34,9 @@ Learn Kotlin, a modern and concise programming language that is interoperable wi
 
 ---
 
-## [Kotlin Docs | Kotlin Documentation - Kotlin Programming Language](https://kotlinlang.org/docs/home.html)
+## [入门 · Kotlin 官方文档 中文版](https://book.kotlincn.net/text/getting-started.html)
 
-Learn Kotlin, a modern and concise programming language, with tutorials, guides, and reference materials. Explore Kotlin features, syntax, multiplatform, and more.
+本文介绍了 Kotlin 编程语言的基础知识，包括安装、使用框架、跨平台开发、数据分析等方面。 Kotlin 是一门现代、安全、可与 Java 及其他语言互操作的编程语言，旨在让开发人员更幸福快乐。
 
 ---
 
