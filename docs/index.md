@@ -4,5 +4,4 @@
 
 layout: home
 ---
-[zadanie1](/zadanie1)
-[test](/test)
+[zadanie1](/zadanie1/zadanie1)
